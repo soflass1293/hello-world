@@ -19,8 +19,5 @@
   "homepage": "https://github.com/soflass1293/hello-world#readme",
   "devDependencies": {
     "jest": "^24.8.0"
-  },
-  "engines" : { 
-    "node" : ">=8.0.0 <11.0.0" 
   }
 }
