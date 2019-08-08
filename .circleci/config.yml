@@ -36,5 +36,8 @@ jobs:
       # run tests!
       - run: yarn test
 
-      # run tests!
+      # run lint!
       - run: yarn lint
+
+      # run build!
+      - run: yarn build

@@ -1,8 +1,8 @@
-const Greetings = require('./classes/Greetings');
+import Greetings from './classes/Greetings';
 
 const greet = new Greetings('Sofienne');
 
 greet.sayHello();
 
 const sum = (a, b) => a + b;
-module.exports = sum;
+export default sum;
